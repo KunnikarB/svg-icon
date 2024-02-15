@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="myCircle" viewBox="0 0 30 10"  >
+    <circle  cx="5" cy="5" r="4" stroke="hotpink" />
+  </symbol>
+</svg>
