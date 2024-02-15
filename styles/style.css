@@ -5,9 +5,16 @@
   padding:0;
 }
 
+/* VARIABLES */
+:root {
+  /* FONT */
+  --FF: "Mansalva", sans-serif;
+  --FS: clamp(1rem, 2.2vh, 1.5rem);
+
 .svg-icon {
   align-items: center;
   display: flex;
+  font: var(--FS) var(--FF);
   justify-content: center;
-  margin-top: 50px;
+  margin: 2rem auto;
 }
